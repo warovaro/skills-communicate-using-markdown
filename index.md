@@ -10,3 +10,15 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Success!!
+
+``` C
+//This is a code example in C language;
+
+#include <stdio.h>
+
+int main(){
+  printf ("Hello world!");
+return 0;
+}
+
+```
