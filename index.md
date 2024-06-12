@@ -22,3 +22,8 @@ return 0;
 }
 
 ```
+
+### Let's try now to add a list.
+
+- [ ] This object is not completed.
+- [x] However this one IS already done.
